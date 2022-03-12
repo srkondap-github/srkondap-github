@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srkondap-github
 - 👀 I’m interested in ... Doing POC on new softwares. Creating Utility Softwares
-- 🌱 I’m currently learning ... Data
+- 🌱 I’m currently learning ... Data, Algorithms.
 - 💞️ I’m looking to collaborate on ... any Java projects
 
 <!---
